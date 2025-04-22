@@ -1,7 +1,8 @@
-<p align="center" style="margin-bottom: 100px; margin-top: 50px;">
+<p align="center">
     <img src="../profile/assets/img/Logo-SoyTrack/logoTipoSoyTrackBRANCA.png" width="300px">
 </p>
 
+<br>
 
 ##  Monitoramento de grãos de soja em silos de armazenamento
 

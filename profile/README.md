@@ -1,4 +1,4 @@
-<p align="center" style="margin-bottom: 50px; margin-top: 100px;">
+<p align="center" style="margin-bottom: 100px; margin-top: 50px;">
     <img src="../profile/assets/img/Logo-SoyTrack/logoTipoSoyTrackBRANCA.png" width="300px">
 </p>
 

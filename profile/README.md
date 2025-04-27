@@ -82,7 +82,7 @@ Nossa solução utiliza sensores ultrassônicos para medir a altura dos grãos n
 <td  align="center"><a  href= "https://github.com/CatarinaGimenes" ><img src="../profile/assets/img/integrantes/catarina.png"  border-radius="50%"; width="110px;"/><br/><b> Catarina </b></a><br /><a  href="https://github.com/CatarinaGimenes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/gwenraldes" ><img src="../profile/assets/img/integrantes/gwen.png.png" border-radius="50%"; width="110px;"/><br/><b> Gwen </b></</a><br /><a  href="https://github.com/gwenraldes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/gwenraldes" ><img src="../profile/assets/img/integrantes/gwen.png" border-radius="50%"; width="110px;"/><br/><b> Gwen </b></</a><br /><a  href="https://github.com/gwenraldes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 <td  align="center"><a  href="https://github.com/LukasFah" ><img src="../profile/assets/img/integrantes/lukas.png" border-radius="50%"; width="110px;"/><br/><b> Lukas </b></</a><br /><a  href="https://github.com/LukasFah"><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>

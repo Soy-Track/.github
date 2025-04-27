@@ -76,22 +76,22 @@ Nossa solução utiliza sensores ultrassônicos para medir a altura dos grãos n
 ## 🤝 Equipe
 <table>
 
-<td  align="center"><a  href= "https://github.com/andreleao-sys"><img src="../profile/assets/img/Logo-SoyTrack/iconeSoyTrackBRANCO.png" border-radius="50%"; width="110px;"/><br/><b> André </b></a><br /><a  href="https://github.com/andreleao-sys" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/andreleao-sys"><img src="../profile/assets/img/integrantes/andre.png" border-radius="50%"; width="110px;"/><br/><b> André </b></a><br /><a  href="https://github.com/andreleao-sys" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href= "https://github.com/CatarinaGimenes" ><img src="../profile/assets/img/Logo-SoyTrack/iconeSoyTrackBRANCO.png"  border-radius="50%"; width="110px;"/><br/><b> Catarina </b></a><br /><a  href="https://github.com/CatarinaGimenes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href= "https://github.com/CatarinaGimenes" ><img src="../profile/assets/img/integrantes/catarina.png"  border-radius="50%"; width="110px;"/><br/><b> Catarina </b></a><br /><a  href="https://github.com/CatarinaGimenes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/gwenraldes" ><img src="../profile/assets/img/Logo-SoyTrack/iconeSoyTrackBRANCO.png" border-radius="50%"; width="110px;"/><br/><b> Gwen </b></</a><br /><a  href="https://github.com/gwenraldes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/gwenraldes" ><img src="../profile/assets/img/integrantes/gwen.png.png" border-radius="50%"; width="110px;"/><br/><b> Gwen </b></</a><br /><a  href="https://github.com/gwenraldes" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/LukasFah" ><img src="../profile/assets/img/Logo-SoyTrack/iconeSoyTrackBRANCO.png" border-radius="50%"; width="110px;"/><br/><b> Lukas </b></</a><br /><a  href="https://github.com/LukasFah"><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/LukasFah" ><img src="../profile/assets/img/integrantes/lukas.png" border-radius="50%"; width="110px;"/><br/><b> Lukas </b></</a><br /><a  href="https://github.com/LukasFah"><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/Marco-ducca" ><img src="../profile/assets/img/Logo-SoyTrack/iconeSoyTrackBRANCO.png" border-radius="50%"; width="110px;"/><br/><b> Marco </b></</a><br /><a  href="https://github.com/Marco-ducca" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/Marco-ducca" ><img src="../profile/assets/img/integrantes/marco.png" border-radius="50%"; width="110px;"/><br/><b> Marco </b></</a><br /><a  href="https://github.com/Marco-ducca" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
-<td  align="center"><a  href="https://github.com/pedroa0627" ><img src="../profile/assets/img/Logo-SoyTrack/iconeSoyTrackBRANCO.png" border-radius="50%"; width="110px;"/><br/><b> Pedro André </b></</a><br /><a  href="https://github.com/pedroa0627" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/pedroa0627" ><img src="../profile/assets/img/integrantes/pedro.png" border-radius="50%"; width="110px;"/><br/><b> Pedro André </b></</a><br /><a  href="https://github.com/pedroa0627" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 </table>

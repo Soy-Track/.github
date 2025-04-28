@@ -21,27 +21,27 @@ Nossa solução utiliza sensores ultrassônicos para medir a altura dos grãos n
 - Receber alertas e relatórios automáticos
 - Tomar decisões mais precisas sobre armazenamento e escoamento
 
-### Protótipo do site institucional
+### Imagens do Site Institucional
 <p align="center">
-    <img src="../profile/assets/img/prototipos/printPrototipo1.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/siteImagem1.png" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/prototipos/printPrototipo2.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/siteImagem2.png" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/prototipos/printPrototipo3.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/siteImagem3.png" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/prototipos/printPrototipo4.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/siteImagem4.png" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/prototipos/printPrototipo5.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/siteImagem5.png" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/prototipos/printPrototipo6.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/siteImagem6.png" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/prototipos/printPrototipo7.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/siteImagem7.png" width="700px">
 </p>
 
 

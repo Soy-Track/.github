@@ -23,28 +23,23 @@ Nossa solução utiliza sensores ultrassônicos para medir a altura dos grãos n
 
 ### Imagens do Site Institucional
 <p align="center">
-    <img src="../profile/assets/img/imagens-site/siteImagem1.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/1.jpg" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/imagens-site/siteImagem2.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/2.jpg" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/imagens-site/siteImagem3.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/3.jpg" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/imagens-site/siteImagem4.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/4.jpg" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/imagens-site/siteImagem5.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/5.jpg" width="700px">
 </p>
 <p align="center">
-    <img src="../profile/assets/img/imagens-site/siteImagem6.png" width="700px">
+    <img src="../profile/assets/img/imagens-site/6.jpg" width="700px">
 </p>
-<p align="center">
-    <img src="../profile/assets/img/imagens-site/siteImagem7.png" width="700px">
-</p>
-
-
 
 ## 👨‍🌾 Público-alvo
 
@@ -89,9 +84,6 @@ Nossa solução utiliza sensores ultrassônicos para medir a altura dos grãos n
 </td>
 
 <td  align="center"><a  href="https://github.com/Marco-ducca" ><img src="../profile/assets/img/integrantes/marco.png" border-radius="50%"; width="110px;"/><br/><b> Marco </b></</a><br /><a  href="https://github.com/Marco-ducca" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
-</td>
-
-<td  align="center"><a  href="https://github.com/pedroa0627" ><img src="../profile/assets/img/integrantes/pedro.png" border-radius="50%"; width="110px;"/><br/><b> Pedro André </b></</a><br /><a  href="https://github.com/pedroa0627" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 </table>
